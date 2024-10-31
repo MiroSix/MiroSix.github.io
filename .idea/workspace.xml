@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo4/Personal Homepage/hobbys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Personal Homepage/images/brba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Personal Homepage/images/spotify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Personal Homepage/images/vives.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Personal Homepage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Personal Homepage/likes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/demo/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/opdracht 6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/opdracht 6/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/opdracht 7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo5/opdracht 7/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,20 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/miros/Documents/GitHub/MiroSix.github.io/Labo4/Personal Homepage",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/miros/Documents/GitHub/MiroSix.github.io/Labo4/Personal Homepage&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo4\Personal Homepage" />
@@ -79,7 +77,9 @@
       <updated>1727960564129</updated>
       <workItem from="1727960565218" duration="1277000" />
       <workItem from="1729070029200" duration="5647000" />
-      <workItem from="1729179648459" duration="2011000" />
+      <workItem from="1729179648459" duration="2288000" />
+      <workItem from="1729858061527" duration="5186000" />
+      <workItem from="1730382725494" duration="902000" />
     </task>
     <servers />
   </component>

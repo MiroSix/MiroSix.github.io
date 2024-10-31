@@ -1,0 +1,28 @@
+h1,h2 {
+    color:blue;
+    font-size: 2em;
+}
+
+section h1{
+    color:yellow;
+}
+
+section>h1{
+    color:green;
+}
+
+
+.styleYellow{
+    color:yellow;
+}
+
+.styleRed{
+    color:red;
+    font-size:3em;
+}
+
+#menu
+{
+    color:blue;
+}
+
