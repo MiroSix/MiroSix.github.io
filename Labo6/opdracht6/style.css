@@ -1,0 +1,7 @@
+ul > li{
+    list-style-image: url(images/box.png);
+}
+
+.checked{
+    list-style-image: url(images/check.png);
+}

@@ -1,0 +1,10 @@
+.menu > li
+{
+    display:inline-block;
+    width:9.375em;
+}
+
+.menu > li > a
+{
+    color:red;
+}
