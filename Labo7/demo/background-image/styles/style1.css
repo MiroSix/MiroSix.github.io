@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background-color: #EDF2F4;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header h1 {
+    margin: 0;
+    color: red;
+}
+
+header {
+    height: 500px;
+    background-image: url(../images/header.jpg);
+    background-repeat: no-repeat;
+    background-color: #FFFFFF;
+    background-size:cover;
+}
+
+
+
+
+
+
+
+/*
+Uitleg specificteit
+• a is 1 wanneer de CSS regel uit een style attribuut komt in plaats van een selector, anders is het 0.
+• b is het aantal gebruikte id attributes in de selector.
+• c is de som van het aantal gebruikte attributen (geen id) en pseudo-classes in de selector.
+• d is de som van het aantal gebruikte element namen en pseudo-elementen in de selector.
+Als je deze cijfers achter elkaar plaatst (abcd) verkrijg je s, de specificiteit van de beschouwde selector.
+
+
+
+HTML (voorrang regels)
+
+<!--Voorrangsregels in volgorde
+Inline stijlen (met style="" direct op een element) hebben de hoogste prioriteit.
+<style>-block stijlen in de HTML hebben voorrang boven stijlen uit een externe stylesheet, als ze later in de code staan of een hogere specificiteit hebben.
+Externe stylesheets hebben de laagste prioriteit, tenzij ze !important gebruiken. -->
+
+*/
+
+
+
