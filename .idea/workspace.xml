@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo8/Verslag CSS Deel 4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/demo/positioneren elementen/demo1/float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/demo/positioneren elementen/demo1/float2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/demo/positioneren elementen/demo2/images/vives.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/demo/positioneren elementen/demo2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/demo/positioneren elementen/demo2/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/demo/positioneren elementen/demo3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht 1/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht 1/voorbeeld1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht 1/voorbeeld2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht 1/voorbeeld3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht 1/voorbeeld4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht cocktail bar/loungestart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht cocktail bar/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht lorem ipsum/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/opdracht lorem ipsum/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/opdracht cocktail bar/loungestart.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdracht cocktail bar/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +99,7 @@
       <workItem from="1732121203595" duration="3000" />
       <workItem from="1732130793667" duration="967000" />
       <workItem from="1732363083882" duration="3562000" />
-      <workItem from="1732460164633" duration="4863000" />
+      <workItem from="1732460164633" duration="5081000" />
     </task>
     <servers />
   </component>
