@@ -1,0 +1,24 @@
+body{
+    margin:10px;
+    padding:0;
+}
+
+p{
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+}
+
+section{
+    width:50%;
+}
+
+.kolom1{
+    color:blue;
+    float:left;
+}
+
+.kolom2{
+    float:right;
+}

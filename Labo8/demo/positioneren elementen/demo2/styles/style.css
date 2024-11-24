@@ -1,0 +1,39 @@
+body{
+    background-color: silver;
+    width:90%;
+    margin:auto;
+    padding:0;
+}
+header{
+    text-align:center
+}
+nav{
+    float:left;
+    width:20%;
+    height:200px;
+    background-color:white;
+}
+nav a{
+    text-decoration: none;
+}
+nav li{
+    list-style:none;
+}
+span{
+    background-color:green;
+    padding:20px;
+}
+section{
+    background-color:maroon;
+    float:left;
+    width:80%;
+    height:200px;
+    border:2px solid black;
+    box-sizing:border-box;
+}
+footer{
+    text-align: center;
+    background-color:#73AD21;
+    clear:both;
+    height:120px;
+}
