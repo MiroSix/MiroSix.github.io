@@ -52,10 +52,17 @@ h2{
 }
 
 #weekly{
+    text-align:center;
     background-image: url("../images/cocktail.gif");
     background-repeat: repeat-x;
     box-sizing:border-box;
     border: 4px solid #007E7E;
+}
+#weekly h1{
+    color:black;
+}
+#weekly h2{
+    color:red;
 }
 footer{
     clear:both;
