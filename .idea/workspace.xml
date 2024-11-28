@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo9/demo/Collapsing margin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/demo/relative-absolute position/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/demo/vertical align/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht airbus/Opdracht Airbus.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht airbus/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht airbus/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht airbus/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht positioneren images/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht positioneren images/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/opdracht cocktail bar/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdracht cocktail bar/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,13 +27,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Labo9/opdracht airbus/airbus.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -61,11 +74,11 @@
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo4\Personal Homepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo9\opdracht positioneren images" />
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo9\opdracht airbus" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo8\opdracht 1" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo8\opdracht cocktail bar" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo7\opdracht personal homepage met CSS\styles" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo7\opdracht nature blog\styles" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo7\opdracht nature blog\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -102,6 +115,9 @@
       <workItem from="1732363083882" duration="3562000" />
       <workItem from="1732460164633" duration="5081000" />
       <workItem from="1732555296130" duration="106000" />
+      <workItem from="1732555495026" duration="21000" />
+      <workItem from="1732700705612" duration="6958000" />
+      <workItem from="1732785708354" duration="3899000" />
     </task>
     <servers />
   </component>

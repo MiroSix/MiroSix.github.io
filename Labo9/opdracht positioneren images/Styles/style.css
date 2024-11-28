@@ -1,0 +1,26 @@
+body{
+    width: 95%;
+    margin: 0;
+    padding: 0;
+}
+article{
+    margin:5px;
+    padding: 10px;
+    border: 1px solid black;
+    float:left;
+ }
+article p img{
+    float:left;
+    margin-right: 10px;
+}
+article > p{
+    float:right;
+    margin: 10px 10px 0 10px;
+    font-size: 1.25em
+}
+article:nth-child(2n) img{
+    float:right;
+}
+article h2{
+    margin:0 ;
+}
