@@ -1,0 +1,124 @@
+body{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding:15px;
+    margin: 0;
+    text-align: center;
+    background-color: lightblue;
+    border-bottom:solid black;
+}
+
+ul > li{
+    margin: 25px 10px 25px 10px;
+}
+
+ul > li > ul > li{
+    margin: 5px;
+}
+
+img{
+    padding: 20px;
+    border-radius: 30px;
+}
+
+footer {
+    background: lightblue;
+    border-top: solid black;
+    border-bottom: solid black;
+    padding-bottom: 50px;
+}
+
+caption{
+    margin: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.prognose {
+    align-items: end;
+    border: 1px solid black;
+    margin: 20px auto 0;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+.prognose td{
+    margin: 20px;
+}
+
+.prognose tbody tr{
+    font-size: 12px;
+}
+
+.datagrid table {
+    align-items: end;
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border-radius: 30px;
+}
+
+.datagrid {
+    align-items: center;
+    font: normal 12px/150% Verdana, Arial, Helvetica, sans-serif;
+    background: lightblue;
+    overflow: hidden;
+    padding-bottom: 50px;
+    border-radius: 30px;
+}
+.datagrid table td, .datagrid table th {
+    padding: 3px 10px;
+}
+.datagrid table thead th {
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#006699', endColorstr='#00557F');
+    background-color:#006699;
+    color:#FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    border-left: 1px solid #0070A8;
+}
+
+.datagrid table thead th:first-child {
+    border: none;
+    border-top-left-radius: 10px;
+}
+
+.datagrid table thead th:last-child {
+    border: none;
+    border-top-right-radius: 10px;
+}
+
+.datagrid table tbody td {
+    color: #00557F;
+    border-left: 1px solid #E1EEF4;
+    font-size: 12px;font-weight: normal;
+    background: #FFFFFF;
+}
+
+.datagrid table tbody td:first-child {
+    border-left: none;
+}
+
+.datagrid table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.datagrid table tbody tr:last-child td:first-child {
+    border: none;
+    border-bottom-left-radius: 10px;
+}
+
+.datagrid table tbody tr:last-child td:last-child {
+    border: none;
+    border-bottom-right-radius: 10px;
+}
+.onbekend{
+    background: red !important;
+}

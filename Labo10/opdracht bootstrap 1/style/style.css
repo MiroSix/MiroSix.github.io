@@ -1,0 +1,12 @@
+
+.content{
+    text-align:center;
+    height:100px;
+    margin:5px;
+    padding:5px;
+    font-size: 18px;
+    background-color: #dbdfe5;
+}
+.content.alt{
+    background-color: #abb1b8;
+}

@@ -1,0 +1,55 @@
+body {
+	font: 1.2em/1.2 Helvetica, aria, sans-serif;
+	margin: 0 3%;
+	background-color: lightgreen;
+}
+
+h1 {
+	font-size: 1.8em;
+}
+h2 {
+	font-size: 1.5em;
+}
+
+img {
+	max-width: 100%;
+}
+
+figure {
+	background: black;
+	border-radius: 5px;
+	color: red;
+	margin: 0 25px 25px 0;
+	padding: 10px;
+	text-align: center;
+	box-sizing:border-box;
+	width: 30%;
+	float:left;
+}
+
+figcaption {
+	font-size: .8em;
+}
+
+
+@media screen and (max-width: 992px)
+{
+	body {
+		background-color: cornflowerblue;
+		margin: 25px 6%;
+	}
+	figure{
+		float:left;
+		width:45%;
+		margin-right: 5%;
+	}
+}
+@media screen and (max-width:768px)
+{
+	body{
+		background-color: purple;
+	}
+	figure{
+		width:100%;
+	}
+}
