@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/fonts/kumbh.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/images/bg-pattern-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/images/bg-pattern-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/images/bg-pattern-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/images/image-victor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie" beforeDir="false" afterPath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo12/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +26,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Labo9/opdracht airbus/airbus.html" root0="FORCE_HIGHLIGHTING" />
@@ -46,8 +53,8 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "layout__excercise",
-    "last_opened_file_path": "C:/Users/miros/Documents/GitHub/MiroSix.github.io",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/miros/Documents/GitHub/MiroSix.github.io/Labo12/frontend beginsituatie oefening",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo12\frontend beginsituatie oefening" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht personal homepage bootstrap" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht piet mondriaan\styles" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht bootstrap 2" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\Demo-responsive-studenten\scale-image\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo12" />
@@ -119,7 +126,9 @@
       <workItem from="1733911149768" duration="12651000" />
       <workItem from="1734355921056" duration="61000" />
       <workItem from="1734516487555" duration="7679000" />
-      <workItem from="1734606018707" duration="25000" />
+      <workItem from="1734606018707" duration="38000" />
+      <workItem from="1734606068123" duration="109000" />
+      <workItem from="1734606228556" duration="217000" />
     </task>
     <servers />
   </component>
