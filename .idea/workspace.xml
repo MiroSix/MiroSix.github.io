@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo11/demo/Bootstrap/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/demo/Bootstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/demo/Grid/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/demo/Grid/grid-area.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/demo/Grid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/FlexContainer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/FlexContainer/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/FlexLayout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/oef/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/oef/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo10/opdracht piet mondriaan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo10/opdracht piet mondriaan/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo10/opdracht piet mondriaan/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo10/opdracht piet mondriaan/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo12/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,22 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/miros/Documents/GitHub/MiroSix.github.io/Labo10/opdracht personal homepage bootstrap&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/miros/Documents/GitHub/MiroSix.github.io/Labo10/opdracht personal homepage bootstrap",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht personal homepage bootstrap" />
@@ -72,11 +74,11 @@
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\Demo-responsive-studenten\scale-image\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo12" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo11" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht bootstrap" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht media queries" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo9\opdracht positioneren images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -122,7 +124,9 @@
       <workItem from="1733471260469" duration="302000" />
       <workItem from="1733656659978" duration="630000" />
       <workItem from="1733846607234" duration="15000" />
-      <workItem from="1733911149768" duration="11581000" />
+      <workItem from="1733911149768" duration="12651000" />
+      <workItem from="1734355921056" duration="61000" />
+      <workItem from="1734516487555" duration="7583000" />
     </task>
     <servers />
   </component>

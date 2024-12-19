@@ -1,0 +1,52 @@
+html {
+    background-color: #333;
+    font-family: helvetica;
+}
+
+* {
+    padding: 10px;
+}
+body{
+    font-size: 1em;
+    margin:5px;
+}
+section{
+    margin: 5px;
+    background-color: white;
+}
+main{
+    background-color: grey;
+    display: flex;
+}
+header, footer{
+    background-color: #DDAA00;
+    text-align: center;
+}
+header a, footer a{
+    color: #DDAA00;
+}
+nav{
+    background-color: #ccc;
+    padding: 5px 2px;
+    text-align: center;
+}
+nav a{
+    margin: 0 5px;
+    color: #DDAA00;
+}
+h1{
+    margin: 0;
+    color: white;
+}
+img{
+    padding: 0;
+}
+
+
+@media screen and (max-width: 700px){
+    main{
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
