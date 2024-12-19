@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/cocktails.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 3/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 3/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/Oefening 3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herhalingsoefeningen/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo12/frontend beginsituatie oefening/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,7 +63,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/miros/Documents/GitHub/MiroSix.github.io/Labo12/frontend beginsituatie oefening",
+    "last_opened_file_path": "C:/Users/miros/Documents/GitHub/MiroSix.github.io/Herhalingsoefeningen/Oefening 2/styles",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,18 +75,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Herhalingsoefeningen\Oefening 2\styles" />
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Herhalingsoefeningen\Oefening 2" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo12\frontend beginsituatie oefening" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht personal homepage bootstrap" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht piet mondriaan\styles" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht bootstrap 2" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Herhalingsoefeningen\Oefening 3" />
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Herhalingsoefeningen\Oefening 1" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo12" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo11" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht bootstrap" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht media queries" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -119,7 +137,7 @@
       <workItem from="1734516487555" duration="7679000" />
       <workItem from="1734606018707" duration="38000" />
       <workItem from="1734606068123" duration="109000" />
-      <workItem from="1734606228556" duration="367000" />
+      <workItem from="1734606228556" duration="11728000" />
     </task>
     <servers />
   </component>
