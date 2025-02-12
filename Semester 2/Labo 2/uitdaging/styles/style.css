@@ -1,0 +1,9 @@
+.zonder{
+    background-color:red;
+    list-style:none;
+}
+
+.met{
+    background-color:white;
+    list-style: disc;
+}

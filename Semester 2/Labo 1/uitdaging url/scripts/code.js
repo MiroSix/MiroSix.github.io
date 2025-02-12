@@ -8,7 +8,7 @@ const show = () => {
     let txtUrl = document.getElementById("txtUrl");
 
     let image = document.getElementById("image");
-    //image.className = "foto";
+
     image.src = txtUrl.value;
     image.style.display = "block";
 
