@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Semester 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 3/opdracht buttons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 3/opdracht buttons/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 3/opdracht buttons/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 3/opdracht producten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 3/opdracht producten/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 3/opdracht producten/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 3/demonstratie slider/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 3/demonstratie slider/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +142,9 @@
       <workItem from="1739277735680" duration="4945000" />
       <workItem from="1739350663295" duration="2067000" />
       <workItem from="1739352764950" duration="345000" />
-      <workItem from="1739868886617" duration="8662000" />
+      <workItem from="1739868886617" duration="8887000" />
+      <workItem from="1739884116863" duration="1085000" />
+      <workItem from="1740037835137" duration="11949000" />
     </task>
     <servers />
   </component>

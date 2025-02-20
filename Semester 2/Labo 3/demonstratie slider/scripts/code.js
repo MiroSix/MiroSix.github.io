@@ -23,11 +23,5 @@ const update = () => {
 	body.style.backgroundColor = `rgb(${sliders[0].value}, ${sliders[1].value}, ${sliders[2].value})`;
 }
 
-// dit is de eerste regel code die uitgevoerd wordt,
-// de bovenstaande functie declaraties introduceren
-// enkel de functies en voeren ze niet uit natuurlijk.
-//
-// Onderstaande zorgt ervoor dat de setup functie wordt
-// uitgevoerd zodra de DOM-tree klaar is.
 window.addEventListener("load", setup);
 window.addEventListener("load", update);
