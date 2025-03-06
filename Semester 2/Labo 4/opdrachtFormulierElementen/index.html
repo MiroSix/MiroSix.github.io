@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Invulformulier</title>
+</head>
+<body>
+<form>
+<section id="personalInfo">
+<label for="firstName">First Name: <input type="text" id="firstName" autofocus/></label><br/><br/>
+<label for="lastName">Last  Name: <input type="text" id="lastName"/></label>
+</section>
+
+<section id="sports">
+    <h3>Which sports do you train?</h3>
+    <label for="running"><input type="checkbox" id="running" value="v"/> Running</label><br/>
+    <label for="swimming"><input type="checkbox" id="swimming" value="v"/> Swimming</label><br/>
+    <label for="rowing"><input type="checkbox" id="rowing" value="v"/> Rowing</label><br/><br/>
+</section>
+
+<section id="gender">
+    <label><input type="radio" name="geslacht" value=”m"/>Man</label><br/>
+    <label><input type="radio" name="geslacht" value=”v"/>Vrouw</label><br/>
+    <label><input type="radio" name="geslacht" value=”x"/>Other/prefer not to say</label><br/><br/>
+</section>
+
+<section id="favorites">
+    <label for="firstName">Favorite Movie: <input type="text" id="favoriteMovie"/></label><br/>
+    <label for="lastName">Favorite Quote: <input type="text" id="favoriteQuote" placeholder="Write your favorite quote"/></label><br/>
+    <label>Favorite Food:
+        <select name="taal" size="3">
+            <option value="ha">Hamburger</option>br
+            <option value="ho">Hot Dog</option>
+            <option value="p">Pizza</option>
+        </select>
+    </label><br/><br/>
+</section>
+
+<section id="securityContact">
+    <label for="password">Passwoord: <input type="password" id="password"/></label><br/>
+    <label for="email">Email address: <input type="email" id="email" placeholder="Enter your email address"/></label><br/>
+    <label for="favoriteSite">Favorite site: <input type="url" id="favoriteSite" placeholder="Enter the URL of your favorite site"/></label><br/><br/>
+</section>
+
+<section id="additional">
+    <label>Favorite number (1-10): <input type="number" name="txtNumber" min="1" max="10"/></label><br/>
+    <label>Favorite number (1-1000):<input type="range" name="txtRange" min="1" max="1000"/></label><br/>
+    <label>When were you born? <input type="date" name="date"/></label><br/>
+    <label>Belgium zip-code reg number: <input type="text" name="postcode" size="4" maxlength="4" placeholder="9999"/></label><br/><br/>
+</section>
+
+<section id="miscellaneous">
+    <label for="zoeken">Search for something: <input type="search" id="zoeken"/></label><br/>
+    <label for="favoriteKleur">What is your favorite color? <input type="color" id="favoriteKleur"/></label><br/>
+    <label for="file">Upload a file: <input type="file" id="file"/></label><br/>
+</section>
+</form>
+<script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+</body>
+</html>
