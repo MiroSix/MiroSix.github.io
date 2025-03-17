@@ -16,5 +16,6 @@ const setup = () => {
         }
         console.log(`De sequentie "${zoekSequentie}" komt ${teller} keer voor.`);
     });
+
 }
 window.addEventListener("load", setup);

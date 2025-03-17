@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Formulier Validatie</title>
+    <style>
+        .error {
+            border: 2px solid red;
+        }
+        .error-message {
+            color: red;
+            margin-left: 10px;
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<form>
+    <div class="line">
+        <label for="txtNaam">Voornaam: </label>
+        <input type="text" id="txtNaam"/>
+        <span id="errorNaam" class="error-message hidden"></span>
+    </div>
+
+    <div class="line">
+        <label for="txtFamNaam">Familienaam: </label>
+        <input type="text" id="txtFamNaam" required/>
+        <span id="errorFamNaam" class="error-message hidden"></span>
+    </div>
+
+    <div class="line">
+        <label for="datGeboorte">Geboortedatum: </label>
+        <input type="date" id="datGeboorte" required/>
+        <span id="errorDatum" class="error-message hidden"></span>
+    </div>
+
+    <div class="line">
+        <label for="txtEmail">E-mail: </label>
+        <input type="text" id="txtEmail" required/>
+        <span id="errorEmail" class="error-message hidden"></span>
+    </div>
+
+    <div class="line">
+        <label for="numAantalKinderen">Aantal Kinderen: </label>
+        <input type="number" id="numAantalKinderen"/>
+        <span id="errorKinderen" class="error-message hidden"></span>
+    </div>
+
+    <input type="button" id="btnToon" value="Toon resultaat"/>
+</form>
+
+<script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+</body>
+</html>
