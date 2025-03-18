@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/demo/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/demo/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht de en het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht de en het/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht de en het/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht gemeenten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht gemeenten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht gemeenten/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht trigrams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht trigrams/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht trigrams/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 4/tekstMetSpaties/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 4/tekstMetSpaties/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 5/opdracht formvalidatie2/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +146,7 @@
       <workItem from="1742134991660" duration="1581000" />
       <workItem from="1742212446275" duration="5085000" />
       <workItem from="1742222843330" duration="112000" />
+      <workItem from="1742286393288" duration="556000" />
     </task>
     <servers />
   </component>

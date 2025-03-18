@@ -88,7 +88,6 @@ const setup = () => {
             errorKinderen.classList.add("hidden");
         }
 
-        // Toon popup als alles geldig is
         if (allValid) {
             alert("proficiat!");
         }
