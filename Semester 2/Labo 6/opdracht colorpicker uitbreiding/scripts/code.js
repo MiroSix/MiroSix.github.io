@@ -27,8 +27,9 @@ const setup = () => {
 
 		kruis.innerText	= "X";
 		kruis.className = "exitKnop";
-		kruis.addEventListener("click", () => {
+		kruis.addEventListener("click", (e) => {
 			swatch.remove();
+			e.stopPropagation();
 		})
 		swatch.addEventListener("click", () => {
 			blok.style.backgroundColor = `rgb(${swatch.getAttribute("data-red")}, ${swatch.getAttribute("data-green")}, ${swatch.getAttribute("data-blue")})`;
