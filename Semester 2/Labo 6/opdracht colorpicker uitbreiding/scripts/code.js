@@ -22,13 +22,15 @@ const setup = () => {
 		swatch.setAttribute("class", "swatch");
 		swatch.style.backgroundColor = `rgb(${sliders[0].getAttribute("data-red")}, ${sliders[1].getAttribute("data-green")}, ${sliders[2].getAttribute("data-blue")})`;
 
+		//kruis bewerken
 		kruis.innerText	= "X";
 		kruis.className = "exitKnop";
 		kruis.addEventListener("click", (e) => {
 			swatch.remove();
 			e.stopPropagation();
 		})
-		
+
+		//kleur opvragen en terugzetten van een gekozen swatch
 		swatch.addEventListener("click", () => {
 			console.log("click");
 			blok.style.backgroundColor = `rgb(${swatch.getAttribute("data-red")}, ${swatch.getAttribute("data-green")}, ${swatch.getAttribute("data-blue")})`;
