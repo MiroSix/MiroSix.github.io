@@ -12,18 +12,15 @@ const setup = () => {
 		let blok=document.getElementById("swatch");
 		let kruis = document.createElement("div");
 		let sliders = document.getElementsByClassName("slider");
-		let labels = document.getElementsByClassName("label");
 
-		for (let i = 0; i < labels.length; i++) {
-			labels[i].innerHTML = sliders[i].value;
-		}
-
-		swatch.style.backgroundColor = `rgb(${sliders[0].value}, ${sliders[1].value}, ${sliders[2].value})`;
+		//swatch toevoegen en bewerken
 		swatches.appendChild(swatch);
 		swatch.appendChild(kruis);
 		swatch.setAttribute("data-red", sliders[0].value);
 		swatch.setAttribute("data-green", sliders[1].value);
 		swatch.setAttribute("data-blue", sliders[2].value);
+		swatch.setAttribute("class", "swatch");
+		swatch.style.backgroundColor = `rgb(${sliders[0].getAttribute("data-red")}, ${sliders[1].getAttribute("data-green")}, ${sliders[2].getAttribute("data-blue")})`;
 
 		kruis.innerText	= "X";
 		kruis.className = "exitKnop";
@@ -31,10 +28,11 @@ const setup = () => {
 			swatch.remove();
 			e.stopPropagation();
 		})
+		
 		swatch.addEventListener("click", () => {
+			console.log("click");
 			blok.style.backgroundColor = `rgb(${swatch.getAttribute("data-red")}, ${swatch.getAttribute("data-green")}, ${swatch.getAttribute("data-blue")})`;
 		})
-		swatch.setAttribute("class", "swatch");
 	})
 }
 
@@ -46,6 +44,10 @@ const update = () => {
 	for (let i = 0; i < labels.length; i++) {
 		labels[i].innerHTML = sliders[i].value;
 	}
+
+	sliders[0].setAttribute("data-red", sliders[0].value);
+	sliders[1].setAttribute("data-green", sliders[1].value);
+	sliders[2].setAttribute("data-blue", sliders[2].value);
 
 	blok.style.backgroundColor = `rgb(${sliders[0].value}, ${sliders[1].value}, ${sliders[2].value})`;
 }
