@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht colorpicker uitbreiding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht colorpicker uitbreiding/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht colorpicker uitbreiding/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht colorpicker uitbreiding/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +67,11 @@
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Labo10\opdracht personal homepage bootstrap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Semester 2\Labo 7" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Semester 2\Labo 6\extra oefeningen\oefening 3" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Semester 2\Labo 6\extra oefeningen\oefening 1" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Semester 2\Labo 6\demo" />
       <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Semester 2\Labo 6\test" />
-      <recent name="C:\Users\miros\Documents\GitHub\MiroSix.github.io\Semester 2\TEST\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -149,7 +150,8 @@
       <workItem from="1742374218518" duration="158000" />
       <workItem from="1742379705617" duration="62000" />
       <workItem from="1742379809487" duration="96000" />
-      <workItem from="1742458754019" duration="2575000" />
+      <workItem from="1742458754019" duration="2601000" />
+      <workItem from="1742897133992" duration="6569000" />
     </task>
     <servers />
   </component>
