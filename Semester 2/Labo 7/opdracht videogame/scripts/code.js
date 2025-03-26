@@ -11,7 +11,7 @@ const setup = () => {
 
     let image = document.getElementById("image");
     let button = document.getElementById("startGame");
-    document.getElementById("startGame").addEventListener("click",  (e) => {
+    document.getElementById("startGame").addEventListener("click",  () => {
 
         image.style.display = "block";
         button.style.display = "none";
@@ -31,7 +31,7 @@ const setup = () => {
             image.src = `${global.IMAGE_PATH_PREFIX}${Math.floor(Math.random() * global.IMAGE_COUNT)}${global.IMAGE_PATH_SUFFIX}`;
             if (image.src.endsWith("images/0.png")) {
                 setTimeout(() => {
-                    image.src = `${global.IMAGE_PATH_PREFIX}${Math.floor(Math.random() * global.IMAGE_COUNT)}${global.IMAGE_PATH_SUFFIX}`
+                    image.src = `${global.IMAGE_PATH_PREFIX}${Math.floor(Math.random() * (global.IMAGE_COUNT - 1)) + 1}${global.IMAGE_PATH_SUFFIX}`
                 }, 1000);
             }
             global.score++;
