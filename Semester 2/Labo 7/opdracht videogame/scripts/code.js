@@ -4,6 +4,8 @@ const setup = () => {
         IMAGE_SIZE: 48, // grootte van de figuur
         IMAGE_PATH_PREFIX: "images/", // map van de figuren
         IMAGE_PATH_SUFFIX: ".png", // extensie van de figuren
+        PLAYFIELD_WIDTH: 800,
+        PLAYFIELD_HEIGHT: 600,
         MOVE_DELAY: 3000, // aantal milliseconden voor een nieuwe afbeelding verschijnt
         score: 0, // aantal hits
         timeoutId: 0 // id van de timeout timer, zodat we die kunnen annuleren
@@ -11,6 +13,7 @@ const setup = () => {
 
     let image = document.getElementById("image");
     let button = document.getElementById("startGame");
+    let playfield = document.getElementById("playField");
     document.getElementById("startGame").addEventListener("click",  () => {
 
         image.style.display = "block";
@@ -23,8 +26,8 @@ const setup = () => {
             gameOver();
         }
         else{
-            let xPos = Math.random() * 801;
-            let yPos = Math.random() * 601;
+            let xPos = Math.random() * (global.PLAYFIELD_WIDTH + 1);
+            let yPos = Math.random() * (global.PLAYFIELD_HEIGHT + 1);
             image.style.position = "absolute";
             image.style.left = xPos + "px";
             image.style.top = yPos + "px";
