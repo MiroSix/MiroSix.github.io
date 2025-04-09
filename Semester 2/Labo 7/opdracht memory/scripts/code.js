@@ -4,7 +4,12 @@ const setup = () => {
         IMAGE_PATH_SUFFIX: ".jpg",
         AANTAL_HORIZONTAAL: 4,
         AANTAL_VERTICAAL: 3,
-        AANTAL_KAARTEN: 6
+        AANTAL_KAARTEN: 6,
+        KAART1NUMBER: 0,
+        KAART2NUMBER: 0,
+        KAART1SRC: "",
+        KAART2SRC: "",
+        KAARTEN: ""
     };
 
     let container = document.getElementById("kaartContainer");
@@ -29,60 +34,59 @@ const setup = () => {
         }
 
         container.innerHTML = '';
+        let teller = 0;
         for (let nummer of images) {
             let img = document.createElement("img");
             img.src = "";
             img.setAttribute("data-src", `${global.IMAGE_PATH_PREFIX}${nummer}${global.IMAGE_PATH_SUFFIX}`)
+            img.setAttribute("data-num", "" + teller)
             img.alt = "kaart";
             img.className = "kaart";
             container.appendChild(img);
+            teller++;
         }
 
         //event listeners voor de kaarten
-        let kaarten = document.getElementsByClassName("kaart");
+        global.KAARTEN = document.getElementsByClassName("kaart");
 
-        let eersteKaart = "";
-        let kaart1number = 0;
-        let tweedeKaart = "";
-        let kaart2number = 0;
+        for (let i = 0; i < global.KAARTEN.length; i++) {
+            global.KAARTEN[i].addEventListener("click", (e) => {
+                e.target.src = e.target.getAttribute("data-src");
 
-        for (let i = 0; i < kaarten.length; i++) {
-            kaarten[i].addEventListener("click", () => {
-                kaarten[i].src = kaarten[i].getAttribute("data-src");
-
-                if(eersteKaart === "") {
-                    eersteKaart = kaarten[i].getAttribute("data-src");
-                    kaart1number = i;
+                if(global.KAART1SRC === "") {
+                    global.KAART1SRC = e.target.getAttribute("data-src");
+                    global.KAART1NUMBER = e.target.getAttribute("data-num");
                 }
-                else{
-                    tweedeKaart = kaarten[i].getAttribute("data-src");
-                    kaart2number = i;
+                else if(global.KAART1SRC !== "") {
+                    global.KAART2SRC = e.target.getAttribute("data-src");
+                    global.KAART2NUMBER = e.target.getAttribute("data-num");
+
                 }
 
-                if ((eersteKaart !== "") && (tweedeKaart !== "")) {
-                    // Add 2-second delay before checking the cards
+                if ((global.KAART1SRC !== "") && (global.KAART2SRC !== "")) {
+
                     setTimeout(() => {
-                        if (eersteKaart === tweedeKaart) {
-                            kaarten[kaart1number].style.display = "none";
-                            kaarten[kaart1number].src = "";
-                            kaarten[kaart2number].style.display = "none";
-                            kaarten[kaart2number].src = "";
-                            eersteKaart = "";
-                            kaart1number = 0;
-                            tweedeKaart = "";
-                            kaart2number = 0;
+                        if (global.KAART1SRC === global.KAART2SRC) {
+                            global.KAARTEN[global.KAART1NUMBER].src = "";
+                            global.KAARTEN[global.KAART2NUMBER].src = "";
+                            global.KAARTEN[global.KAART1NUMBER].className = "hidden";
+                            global.KAARTEN[global.KAART2NUMBER].className = "hidden";
+                            global.KAART1SRC = "";
+                            global.KAART1NUMBER = 0;
+                            global.KAART2SRC = "";
+                            global.KAART2NUMBER = 0;
                         }
                         else {
-                            kaarten[kaart1number].src = "";
-                            kaarten[kaart2number].src = "";
-                            eersteKaart = "";
-                            kaart1number = 0;
-                            tweedeKaart = "";
-                            kaart2number = 0;
+                            global.KAARTEN[global.KAART1NUMBER].src = "";
+                            global.KAARTEN[global.KAART2NUMBER].src = "";
+                            global.KAART1SRC = "";
+                            global.KAART1NUMBER = 0;
+                            global.KAART2SRC = "";
+                            global.KAART2NUMBER = 0;
                         }
-                    }, 1000); // 2000 milliseconds = 2 seconds
+                    }, 1000);
                 }
-            })
+            });
         }
     };
 }
