@@ -1,0 +1,28 @@
+#containerTafels {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.tafel {
+    border: 1px solid black;
+}
+
+.tafel header {
+    background: darkslateblue;
+}
+
+.tafel header p {
+    margin: 0;
+    color: white;
+    padding: 7px 50px 7px 7px;
+}
+
+.tafel .row {
+    padding: 10px;
+}
+
+.tafel .row:nth-child(odd) {
+    background: lightgray;
+}
