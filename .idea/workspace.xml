@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d92320-62d1-4ed1-9ff1-37e1ab24f045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 9/opdracht tafels/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 9/opdracht tafels/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 9/opdracht tafels/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 10/opdracht startpage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 10/opdracht startpage/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 10/opdracht startpage/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/index.html" afterDir="false" />
     </list>
@@ -167,7 +167,10 @@
       <workItem from="1744204887231" duration="4070000" />
       <workItem from="1745308317096" duration="8078000" />
       <workItem from="1745846700697" duration="818000" />
-      <workItem from="1745848202898" duration="2825000" />
+      <workItem from="1745848202898" duration="3104000" />
+      <workItem from="1745913443500" duration="9295000" />
+      <workItem from="1745927984017" duration="446000" />
+      <workItem from="1745932554393" duration="1210000" />
     </task>
     <servers />
   </component>
