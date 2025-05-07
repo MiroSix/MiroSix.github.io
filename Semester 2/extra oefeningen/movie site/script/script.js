@@ -39,6 +39,17 @@ const createAndAppendLikeAndDislike = (event) => {
     event.append(likeAndDislikeDiv);
 }
 
+const checkAllMoviesLiked = () => {
+    const allMovies = document.querySelectorAll('.movie');
+    const allLiked = Array.from(allMovies).every(movie => {
+        return movie.querySelector('#like').classList.contains('liked');
+    });
+
+    if (allLiked) {
+        window.alert("yo:gurt");
+    }
+}
+
 const likeClick = (event) => {
     let likeAmount = document.getElementById("likeAmount");
     let dislikeAmount = document.getElementById("dislikeAmount");
@@ -74,6 +85,9 @@ const likeClick = (event) => {
             event.target.classList.add("liked");
         }
     }
+
+    // Check if all movies are liked after this like action
+    checkAllMoviesLiked();
 }
 
 const addMovieToLikebar = (title) => {
@@ -163,7 +177,6 @@ const dislikeClick = (event) => {
             event.target.classList.add("disliked");
         }
     }
-
 }
 
 const loadMovies = () => {
