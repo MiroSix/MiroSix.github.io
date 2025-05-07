@@ -46,7 +46,7 @@ const checkAllMoviesLiked = () => {
     });
 
     if (allLiked) {
-        window.alert("yo:gurt");
+        window.alert("gurt: yo");
     }
 }
 
@@ -86,7 +86,6 @@ const likeClick = (event) => {
         }
     }
 
-    // Check if all movies are liked after this like action
     checkAllMoviesLiked();
 }
 
