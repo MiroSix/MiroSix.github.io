@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+h3{
+    display:block;
+    margin: 20px;
+    width:100%;
+}
+#btnSaveList{
+    margin-top:20px;
+    width: 100px;
+}
+.board {
+    display: flex;
+    gap: 20px;
+}
+.column {
+    flex: 1;
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 8px;
+    min-height: 300px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #333;
+    font-family: sans-serif;
+    color: #555;
+}
+.task {
+    display:block;
+    background: white;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: move;
+}
+.task.dragging {
+    opacity: 0.5;
+}
+
+#dragItem {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: grab;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    user-select: none;
+}
